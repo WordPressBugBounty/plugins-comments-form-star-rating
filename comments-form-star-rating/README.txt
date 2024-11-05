@@ -1,9 +1,10 @@
 === Comments Form Star Rating Plugin for WordPress ===
 Contributors: chitracreation
-Tags: comments, form, star, rating
+Donate link: https://chitraa.tech/
+Tags: comments, user rating, star, rating, comment form plugin
 Requires at least: 5.0
 Tested up to: 6.6
-Stable tag: 1.0.0
+Stable tag: 2.0.0
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -14,9 +15,44 @@ Allow your customers to add star rattings in comment form.
 
 https://www.youtube.com/watch?v=WidDKHYupzQ
 
-Easy | Advance | Simple
+= Easy | Advance | Simple =
 
-Just install Plugin and enjoy feature of comments form star rating.
+🌟 Just install Plugin and enjoy feature of comments form star rating by  **[Chitraa](https://chitraa.tech/)**.
+
+Enhance your WordPress comment section by allowing users to add star ratings with their comments. 
+
+This easy-to-use plugin is perfect for sites that want to gather user feedback through a quick, engaging rating system.
+
+### 🗝️ Key Features
+
+**Star Rating System for Comments**
+
+- Adds a 5-star rating option directly in the comment form.
+- Users can rate from 1 to 5 stars, alongside their comment.
+
+**Flexible Display Options**
+
+- Integrates seamlessly with your site’s theme.
+-Customizable styling to match your website’s design (based on theme support).
+
+**Easy Installation and Setup**
+
+- Quick installation from the WordPress plugin directory.
+- No coding needed—just activate the plugin, and it’s ready to use.
+
+**Boosts User Engagement**
+
+- Makes it easier for users to interact and provide feedback.
+- Adds an extra data point (star rating) to understand user sentiment.
+
+**Admin Control and Management**
+
+- View all ratings in the WordPress admin panel.
+- Works with WordPress’s comment moderation tools.
+
+**Responsive Design**
+
+-Optimized for both desktop and mobile devices for smooth usability everywhere.
 
 == Installation ==
 1. Upload the entire `comments-form-star-rating` folder to the `/wp-content/plugins/` directory.
